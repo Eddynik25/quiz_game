@@ -1,0 +1,68 @@
+{
+  "easy": [
+    {
+      "question": "Who discovered America?",
+      "options": ["Columbus", "Napoleon", "Einstein", "Newton"],
+      "answer": "Columbus"
+    },
+    {
+      "question": "Which country built the Great Wall?",
+      "options": ["India", "China", "Japan", "Egypt"],
+      "answer": "China"
+    },
+    {
+      "question": "What was the name of the ship that sank in 1912?",
+      "options": ["Titanic", "Olympic", "Lusitania", "Britannic"],
+      "answer": "Titanic"
+    },
+    {
+      "question": "Who was the first president of the USA?",
+      "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+      "answer": "George Washington"
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "When did the French Revolution start?",
+      "options": ["1789", "1776", "1804", "1815"],
+      "answer": "1789"
+    },
+    {
+      "question": "Who was known as the Iron Lady?",
+      "options": ["Margaret Thatcher", "Angela Merkel", "Theresa May", "Golda Meir"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Roman", "Greek", "Ottoman", "Persian"],
+      "answer": "Roman"
+    },
+    {
+      "question": "The Cold War mainly involved which two countries?",
+      "options": ["USA and USSR", "Germany and France", "USA and China", "UK and USSR"],
+      "answer": "USA and USSR"
+    }
+  ],
+  "difficult": [
+    {
+      "question": "In which year was the Berlin Wall torn down?",
+      "options": ["1989", "1991", "1987", "1993"],
+      "answer": "1989"
+    },
+    {
+      "question": "Who wrote the Communist Manifesto?",
+      "options": ["Karl Marx", "Lenin", "Stalin", "Trotsky"],
+      "answer": "Karl Marx"
+    },
+    {
+      "question": "What triggered World War I?",
+      "options": ["Assassination of Archduke Franz Ferdinand", "Treaty of Versailles", "Invasion of Poland", "Pearl Harbor"],
+      "answer": "Assassination of Archduke Franz Ferdinand"
+    },
+    {
+      "question": "Which treaty ended World War I?",
+      "options": ["Treaty of Versailles", "Treaty of Tordesillas", "Treaty of Paris", "Treaty of Ghent"],
+      "answer": "Treaty of Versailles"
+    }
+  ]
+}

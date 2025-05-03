@@ -1,0 +1,68 @@
+{
+  "easy": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "How many legs does an insect have?",
+      "options": ["4", "6", "8", "10"],
+      "answer": "6"
+    },
+    {
+      "question": "What do plants need to make food?",
+      "options": ["Water, sunlight, air", "Oil, heat, fire", "Meat, milk, sun", "Sugar, water, ice"],
+      "answer": "Water, sunlight, air"
+    },
+    {
+      "question": "Which gas do we breathe in to survive?",
+      "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+      "answer": "Oxygen"
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["Water", "Hydrogen", "Salt", "Oxygen"],
+      "answer": "Water"
+    },
+    {
+      "question": "How many planets are in the solar system?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8"
+    },
+    {
+      "question": "What part of the cell contains DNA?",
+      "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Cell wall"],
+      "answer": "Nucleus"
+    },
+    {
+      "question": "What force pulls objects to the ground?",
+      "options": ["Gravity", "Magnetism", "Friction", "Electricity"],
+      "answer": "Gravity"
+    }
+  ],
+  "difficult": [
+    {
+      "question": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "100,000 km/s"],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Mitochondria", "Ribosome", "Nucleus", "Chloroplast"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which element has the chemical symbol 'Fe'?",
+      "options": ["Iron", "Gold", "Silver", "Copper"],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Iron", "Quartz", "Gold"],
+      "answer": "Diamond"
+    }
+  ]
+}
